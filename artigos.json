@@ -2,7 +2,7 @@
   {
     "id" : 1, 
     "title" : "Software do seu dispositivo atualizado",
-    "descriptoin" : "Manter o software do seu dispositivo móvel atualizado é essencial para a segurança. As atualizações geralmente contêm correções de segurança que abordam vulnerabilidades conhecidas. Ao manter seu sistema operacional, aplicativos e antivírus atualizados, você reduz o risco de ataques cibernéticos explorarem brechas de segurança existentes.",
+    "description" : "Manter o software do seu dispositivo móvel atualizado é essencial para a segurança. As atualizações geralmente contêm correções de segurança que abordam vulnerabilidades conhecidas. Ao manter seu sistema operacional, aplicativos e antivírus atualizados, você reduz o risco de ataques cibernéticos explorarem brechas de segurança existentes.",
     "url_imagem" : "",
     "data" : "3/05/2023"
   }, 
@@ -10,7 +10,7 @@
   {
     "id" : 2, 
     "title" : "Use senhas seguras",
-    "descriptoin" : "Usar senhas seguras é fundamental para proteger seu dispositivo e suas contas online. Evite senhas óbvias e fáceis de adivinhar, como datas de nascimento, nomes de familiares ou sequências numéricas simples . Em vez disso, crie senhas complexas com uma combinação de letras maiúsculas e minúsculas, números e caracteres especiais.",
+    "description" : "Usar senhas seguras é fundamental para proteger seu dispositivo e suas contas online. Evite senhas óbvias e fáceis de adivinhar, como datas de nascimento, nomes de familiares ou sequências numéricas simples . Em vez disso, crie senhas complexas com uma combinação de letras maiúsculas e minúsculas, números e caracteres especiais.",
     "url_imagem" : "",
     "data" : "4/05/2023"
   }, 
@@ -18,7 +18,7 @@
     {
     "id" : 3, 
     "title" : "Autenticação em dois fatores",
-    "descriptoin" : "A autenticação em dois fatores (2FA) adiciona uma camada extra de segurança às suas contas online. Além da senha, o 2FA requer um código de autenticação adicional, que geralmente é enviado por mensagem de texto, gerado por um aplicativo de autenticação ou fornecido por meio de um dispositivo de segurança físico. Ao ativar o 2FA, mesmo que alguém obtenha sua senha, ainda precisará do código de autenticação para acessar sua conta. Resumindo além de criar uma senha segura, devemos adicionar mais uma camada de segurança, pois mesmo alguém que tem acesso a sua senha precisará fazer a autenticação de fatores ",
+    "description" : "A autenticação em dois fatores (2FA) adiciona uma camada extra de segurança às suas contas online. Além da senha, o 2FA requer um código de autenticação adicional, que geralmente é enviado por mensagem de texto, gerado por um aplicativo de autenticação ou fornecido por meio de um dispositivo de segurança físico. Ao ativar o 2FA, mesmo que alguém obtenha sua senha, ainda precisará do código de autenticação para acessar sua conta. Resumindo além de criar uma senha segura, devemos adicionar mais uma camada de segurança, pois mesmo alguém que tem acesso a sua senha precisará fazer a autenticação de fatores ",
     "url_imagem" : "",
     "data" : "5/05/2023"
   }  
