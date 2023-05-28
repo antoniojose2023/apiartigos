@@ -37,6 +37,46 @@
     "description" : "Links suspeitos em mensagens de texto, e-mails ou mídias sociais podem levar a sites maliciosos projetados para roubar suas informações pessoais ou instalar malware em seu dispositivo. Independente das camadas de segurança que você está usando, deve-se sempre estar alerta e ter cuidado ao clicar em links e verificar a legitimidade e segurança do remetente antes de clicar. Se você não estiver certo da procedência, é mais seguro evitar clicar no link.",
     "url_imagem" : "https://firebasestorage.googleapis.com/v0/b/netapi-8d36f.appspot.com/o/IMAGENS%20DICAS%2FDICA%205.png?alt=media&token=722257b8-262c-41ee-bc06-4d06e381feea",
     "data" : "7/05/2023"
-   }    
+   },
+  
+  {
+   "id" : 6, 
+    "title" : "Use um aplicativo de segurança móvel",
+    "description" : "Aplicativos de segurança móvel confiáveis, como antivírus e antimalware, podem proteger seu dispositivo contra ameaças cibernéticas, como malware, spyware e phishing. Esses aplicativos podem escanear arquivos, monitorar atividades suspeitas e fornecer proteção em tempo real. Certifique-se de instalar um aplicativo de segurança móvel de uma fonte confiável e mantenha-o atualizado regularmente. Se possível utilizar o antivírus pago como o Avast, AVG,BitDefender etc. Pois esses software na forma paga trarão mais camadas de segurança seu dispositivo.",
+    "url_imagem" : "https://firebasestorage.googleapis.com/v0/b/netapi-8d36f.appspot.com/o/IMAGENS%20DICAS%2FDICA%206.png?alt=media&token=b12f594e-3b16-46bc-90b5-e94add23eb81",
+    "data" : "27/05/2023"
+   },
+  
+    {
+   "id" : 7, 
+    "title" : "Gerencie suas configurações de privacidade",
+    "description" : "Revisar e gerenciar as configurações de privacidade em seus aplicativos e no sistema operacional do dispositivo é essencial para proteger suas informações pessoais. Verifique quais permissões cada aplicativo solicitou e se o mesmo não está requerendo permissões inadequadas. Muita atenção em aplicativos que solicitam permissão de administrador, pois ao conceder essas permissões você está dando controle total do seu dispositivo para o aplicativo."
+    "url_imagem" : "https://firebasestorage.googleapis.com/v0/b/netapi-8d36f.appspot.com/o/IMAGENS%20DICAS%2FDICA%206.png?alt=media&token=b12f594e-3b16-46bc-90b5-e94add23eb81",
+    "data" : "27/05/2023"
+   },
+  
+   {
+   "id" : 8, 
+    "title" : "Faça backup de seus dados regularmente",
+    "description" : "Fazer backup regular dos dados do seu dispositivo móvel é crucial para proteger suas informações importantes e garantir que você não as perca em caso de roubo, perda ou falha do dispositivo. Use serviços de armazenamento em nuvem confiáveis, como o Google Drive, o iCloud ou outros provedores conhecidos, para fazer backup de fotos, vídeos, documentos e outros dados importantes. Além disso, você pode usar um cabo USB para fazer backup diretamente em seu computador. Certifique-se de fazer backups periódicos para garantir que seus dados estejam sempre protegidos.",
+    "url_imagem" : "https://firebasestorage.googleapis.com/v0/b/netapi-8d36f.appspot.com/o/IMAGENS%20DICAS%2FDICA%208.png?alt=media&token=bd3fe367-71f3-41d4-ae3f-9b681e972c3e",
+    "data" : "27/05/2023"
+   },
+  
+   {
+   "id" : 9, 
+    "title" : "Ocultar aplicativos",
+    "description" : "Essa técnica é feita através do uso de outros aplicativos, no qual o usuário pode estar ocultando(escondendo) aplicativos mais confidenciais, como softwares de fotos, vídeos e aplicações bancárias. O usuário poderá esconder o aplicativo utilizando atalhos ícones fictícios, em que o aplicativo ficará encapsulado dentro de uma pasta camuflado com outro nome e icone, exemplo de aplicativo que pode ser usando é o AppHide. Outra forma será usando a opção ocultar aplicativo que já vem nativo nas configurações do android. Essa segunda opção a forma de configurar muda muito de um smartphone para outro",
+    "url_imagem" : "https://firebasestorage.googleapis.com/v0/b/netapi-8d36f.appspot.com/o/IMAGENS%20DICAS%2FDICA%209.png?alt=media&token=da7f26c0-40f1-48c1-9211-fd037f94a038",
+    "data" : "27/05/2023"
+   },
+  
+   {
+   "id" : 10, 
+    "title" : "Cuidados ao trocar seu aparelho",
+    "description" : "hoje devido a grande evolução das tecnologias sempre estamos nos atualizando adquirindo novos aparelhos, para mantermos o mesmo nível de produtividade. Na hora da troca dos aparelhos precisamos tomar muito cuidado. Para que você não corra nenhum risco duas as ações são necessárias a limpeza de todos os dados e restauração do aparelho para o padrão de fábrica."
+    "url_imagem" : "https://firebasestorage.googleapis.com/v0/b/netapi-8d36f.appspot.com/o/IMAGENS%20DICAS%2FDICA%2010.png?alt=media&token=1d831ffa-a2c1-4c87-9d13-755afe0f7c0b",
+    "data" : "27/05/2023"
+   }  
   
 ]
