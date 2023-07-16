@@ -1,4 +1,4 @@
-# apiartigos
+# Api Artigos
 
 As Imagens aqui usadas estão referenciadas abaixo: 
 
@@ -10,3 +10,18 @@ Imagem 2
 
 Imagem 3
 <a href="https://www.flaticon.com/br/icones-gratis/autenticacao" title="autenticação ícones">Autenticação ícones criados por monkik - Flaticon</a>
+
+Imagem 5
+<a href="https://www.flaticon.com/br/icones-gratis/local-na-rede-internet" title="local na rede internet ícones">Local na rede internet ícones criados por Freepik - Flaticon</a>
+
+Imagem 6
+<a href="https://www.flaticon.com/br/icones-gratis/escudo" title="escudo ícones">Escudo ícones criados por Freepik - Flaticon</a>
+
+Imagem 7
+<a href="https://www.flaticon.com/br/icones-gratis/escudo" title="escudo ícones">Escudo ícones criados por Freepik - Flaticon</a>
+
+Imagem 8 
+<a href="https://www.flaticon.com/br/icones-gratis/copia-de-seguranca" title="cópia de segurança ícones">Cópia de segurança ícones criados por juicy_fish - Flaticon</a>
+
+Imagem 10
+<a href="https://www.flaticon.com/br/icones-gratis/compartilhar" title="compartilhar ícones">Compartilhar ícones criados por Freepik - Flaticon</a>
