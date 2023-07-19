@@ -26,5 +26,8 @@ Imagem 7
 Imagem 8 
 <a href="https://www.flaticon.com/br/icones-gratis/copia-de-seguranca" title="cópia de segurança ícones">Cópia de segurança ícones criados por juicy_fish - Flaticon</a>
 
+Imagem 9
+<a href="https://www.flaticon.com/br/icones-gratis/ocultar" title="ocultar ícones">Ocultar ícones criados por Icongeek26 - Flaticon</a>
+
 Imagem 10
 <a href="https://www.flaticon.com/br/icones-gratis/compartilhar" title="compartilhar ícones">Compartilhar ícones criados por Freepik - Flaticon</a>
