@@ -11,6 +11,9 @@ Imagem 2
 Imagem 3
 <a href="https://www.flaticon.com/br/icones-gratis/autenticacao" title="autenticação ícones">Autenticação ícones criados por monkik - Flaticon</a>
 
+Imagem 4
+<a href="https://www.flaticon.com/br/icones-gratis/wi-fi" title="wi-fi ícones">Wi-fi ícones criados por berkahicon - Flaticon</a>
+
 Imagem 5
 <a href="https://www.flaticon.com/br/icones-gratis/local-na-rede-internet" title="local na rede internet ícones">Local na rede internet ícones criados por Freepik - Flaticon</a>
 
